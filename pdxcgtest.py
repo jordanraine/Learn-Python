@@ -18,7 +18,7 @@ def add(a, b):
     return a + b
 def print_add(a, b):
     print add(a, b)
-print "Hello World. Would you like to see my test?"
+print "Hello nerds. Would you like to see my test?"
 answer = raw_input()
 if ( not is_yes(answer) ):
     print "Maybe next time\n"
